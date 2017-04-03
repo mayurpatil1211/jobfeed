@@ -2,7 +2,7 @@
 <body class="job-list">
    <div>
       <div class="col-md-6">
-         <img src="<?php echo base_url();?>assets/logo.png" class="logo">
+<!--          <img src="<?php echo base_url();?>assets/logo.png" class="logo"> -->
       </div>
       <div class="col-md-6">
          <a href="newJob">
